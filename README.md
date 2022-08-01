@@ -1,12 +1,12 @@
 <!-- Hi skid <3 -->
-<h2 align="center">SERVER GOT TERMED JOIN NEW ONE <a href="https://discord.gg/fs6V94d8">https://discord.gg/xtwitch</a></h2>
+<h2 align="center">JOIN MY DISCORD FOR UPDATES <a href="https://discord.gg/fs6V94d8">https://discord.gg/xepos</a></h2>
 
 <!-- <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
     <img alt="" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />
 </p> -->
 
-<p href="https://discord.gg/onlp" align="center">
+<p href="https://discord.gg/xepos" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
 </p>
 
@@ -18,19 +18,17 @@ class Attributes:
 		bitches.get('bitches')
 		
 	def contact(self):
-	    discord  = "&! Tekky#1337"
-	    telegram = "t.me/xtekky"
-	    proton   = "xtekky@protonmail.com"
+	    discord  = "m00nd4rk#0001"
+	    gmail   = "jolly.bolly54@gmail.com"
 	    
 	    return discord, telegram, proton
 
 	def life(self):
-		langs         = ['French', 'German', 'Spanish', 'English']
-		nationalities = self.langs.remove('French', 'English').append('Korean')
-		age           = 16
+		langs         = ['German', 'Spanish', 'English', 'Serbian']
+		age           = 15
 		
-		return langs, nationalities, age
+		return langs, age
 		
 	def coding(self):
 		langs = {
-			'expert':   ['python'],
+			'intermediate':   ['python'],
