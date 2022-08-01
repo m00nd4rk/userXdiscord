@@ -21,7 +21,7 @@ class Attributes:
 	    discord  = "m00nd4rk#0001"
 	    gmail   = "jolly.bolly54@gmail.com"
 	    
-	    return discord, telegram, proton
+	    return discord, gmail
 
 	def life(self):
 		langs         = ['German', 'Spanish', 'English']
