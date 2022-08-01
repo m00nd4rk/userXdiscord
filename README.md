@@ -2,7 +2,7 @@
 <h2 align="center">JOIN MY DISCORD FOR UPDATES <a href="https://discord.gg/fs6V94d8">https://discord.gg/xepos</a></h2>
 
 <!-- <p align="center">
-    <img alt="" src=https://cdn.discordapp.com/attachments/990017210984595516/1003613054593945670/Screen_Shot_2022-08-01_at_13.39.02.png />
+    <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
     <img alt="" src=https://cdn.discordapp.com/attachments/990017210984595516/1003613054593945670/Screen_Shot_2022-08-01_at_13.39.02.png />
 </p> -->
 
