@@ -24,7 +24,7 @@ class Attributes:
 	    return discord, telegram, proton
 
 	def life(self):
-		langs         = ['German', 'Spanish', 'English', 'Serbian']
+		langs         = ['German', 'Spanish', 'English']
 		age           = 15
 		
 		return langs, age
