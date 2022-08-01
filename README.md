@@ -3,7 +3,7 @@
 
 <!-- <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
-    <img alt="" src=https://cdn.discordapp.com/attachments/990017210984595516/1003613054593945670/Screen_Shot_2022-08-01_at_13.39.02.png />
+    <img alt="" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />
 </p> -->
 
 <p href="https://discord.gg/xepos" align="center">
