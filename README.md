@@ -7,7 +7,7 @@
 </p> -->
 
 <p href="https://discord.gg/xepos" align="center">
-    <img alt="" src=[https://lanyard.cnrad.dev/api/840541540203626516v]/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516v/>
 </p>
 
 ```python
