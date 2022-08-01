@@ -1,5 +1,5 @@
 <!-- Hi skid <3 -->
-<h2 align="center">JOIN MY DISCORD FOR UPDATES <a href="https://discord.gg/fs6V94d8">https://discord.gg/xepos</a></h2>
+<h2 align="center">JOIN MY DISCORD FOR UPDATES <a href="https://discord.gg/xepos">https://discord.gg/xepos</a></h2>
 
 <!-- <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
