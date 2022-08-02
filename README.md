@@ -39,3 +39,10 @@ class Attributes:
 	def coding(self):
 		langs = {
 			'intermediate':   ['python'],
+```
+
+```diff
++ Followers
++ Shares
++ Likes
+```
