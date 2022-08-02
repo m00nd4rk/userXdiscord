@@ -52,5 +52,5 @@ class Attributes:
 + Twitch-Discord-Follow-Bot [✅]
 + Instagram-Discord-Follow-Bot
 + Twitter-Discord-Follow-Bot
-+ Discord-AIO [✅]
++ Discord-AIO
 ```
