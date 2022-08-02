@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/990017210984595516/1003619647339364435/TikTok_Banner-1.jpeg"></img>
+<img src="I"></img>
   </kbd>
 </p>
 
