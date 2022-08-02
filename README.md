@@ -60,9 +60,10 @@ Discord Bots:
 + Instagram-Follow-Bot
 + Twitter-Follow-Bot
 
+Website:
++ Xepos-Information-Site
+
 Web3:
 + Ethereum-Wallet-Phrase-Grabber [✅]
 
-Website:
-+ Xepos-Information-Site
 ```
