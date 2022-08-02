@@ -44,13 +44,22 @@ class Attributes:
 ## ✅・2022 GitHub Project Checklist
 
 ```diff
+Discord:
 + Nitro-Token-Gen
 + Discord-Account-Creator [✅]
 + Discord-Server-Nuker
++ Discord-AIO
+
+Tiktok:
 + TikTok Viewbot [✅]
-+ Ethereum-Wallet-Phrase-Grabber [✅]
++ Tiktok Api Viewbot
++ Tiktok Account Bruteforcer
+
+Discord Bots:
 + Twitch-Discord-Follow-Bot [✅]
 + Instagram-Discord-Follow-Bot
 + Twitter-Discord-Follow-Bot
-+ Discord-AIO
+
+Web3:
++ Ethereum-Wallet-Phrase-Grabber [✅]
 ```
