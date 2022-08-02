@@ -45,9 +45,9 @@ class Attributes:
 
 ```diff
 Discord:
-+ Nitro-Token-Gen
 + Discord-Account-Creator [✅]
 + Discord-Server-Nuker
++ Nitro-Token-Gen
 + Discord-AIO
 
 Tiktok:
