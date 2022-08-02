@@ -32,9 +32,14 @@ class Attributes:
 	def life(self):
 		langs         = ['German', 'Spanish', 'English', 'Serbian']
 		age           = 15
-		
 		return langs, age
 		
 	def coding(self):
 		langs = {
 			'intermediate':   ['python'],
+```diff
+Discord:
++ m00nd4rk#0001 (me)
++ &! Tekky#1337
++ Li0n#3325
+```
