@@ -38,7 +38,7 @@ class Attributes:
 		
 	def coding(self):
 		langs = {
-			'genious':   ['python'],
+			'genious':   ['python']
 ```
 
 ## ✅・2022 GitHub Project Checklist
