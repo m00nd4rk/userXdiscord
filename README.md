@@ -45,20 +45,20 @@ class Attributes:
 
 ```diff
 Discord:
-+ Discord-Account-Creator [✅]
-+ Discord-Server-Nuker
++ Mass-Account-Creator [✅]
++ Server-Nuker
 + Nitro-Token-Gen
-+ Discord-AIO
++ AIO
 
 Tiktok:
-+ TikTok Viewbot [✅]
-+ Tiktok Api Viewbot
-+ Tiktok Account Bruteforcer
++ Viewbot [✅]
++ Api Viewbot
++ Account Bruteforcer
 
 Discord Bots:
-+ Twitch-Discord-Follow-Bot [✅]
-+ Instagram-Discord-Follow-Bot
-+ Twitter-Discord-Follow-Bot
++ Twitch-Follow-Bot [✅]
++ Instagram-Follow-Bot
++ Twitter-Follow-Bot
 
 Web3:
 + Ethereum-Wallet-Phrase-Grabber [✅]
