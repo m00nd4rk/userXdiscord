@@ -1,5 +1,5 @@
 <!-- Hi skid <3 -->
-<h2 align="center">MY DISCORD: <a href="https://discord.gg/xepos">https://discord.gg/xepos</a></h2>
+<h2 align="center">👻 MY DISCORD: <a href="https://discord.gg/xepos">https://discord.gg/xepos</a></h2>
 
 <p align="center"> 
   <kbd>
