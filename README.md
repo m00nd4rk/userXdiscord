@@ -44,5 +44,13 @@ class Attributes:
 ## ✅・2022 GitHub Plans
 
 ```diff
-
++ Nitro-Token-Gen [✅]
++ Discord-Account-Creator [✅]
++ Discord-Server-Nuker
++ TikTok Viewbot [✅]
++ Ethereum-Wallet-Phrase-Grabber [✅]
++ Twitch-Discord-Follow-Bot [✅]
++ Instagram-Discord-Follow-Bot
++ Twitter-Discord-Follow-Bot
++ Discord-AIO [✅]
 ```
