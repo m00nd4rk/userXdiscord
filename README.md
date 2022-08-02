@@ -1,6 +1,12 @@
 <!-- Hi skid <3 -->
 <h2 align="center">MY DISCORD <a href="https://discord.gg/xepos">https://discord.gg/xepos</a></h2>
 
+<p align="center"> 
+  <kbd>
+<img src="https://cdn.discordapp.com/attachments/990017210984595516/1003619647339364435/TikTok_Banner-1.jpeg"></img>
+  </kbd>
+</p>
+
 <!-- <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
     <img alt="" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />
