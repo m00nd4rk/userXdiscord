@@ -44,7 +44,7 @@ class Attributes:
 ## ✅・2022 GitHub Project Checklist
 
 ```diff
-+ Nitro-Token-Gen [✅]
++ Nitro-Token-Gen
 + Discord-Account-Creator [✅]
 + Discord-Server-Nuker
 + TikTok Viewbot [✅]
