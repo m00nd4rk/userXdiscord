@@ -41,8 +41,8 @@ class Attributes:
 			'intermediate':   ['python'],
 ```
 
+##✅・2022 GitHub Plans
+
 ```diff
-+ Followers
-+ Shares
-+ Likes
+
 ```
