@@ -62,4 +62,7 @@ Discord Bots:
 
 Web3:
 + Ethereum-Wallet-Phrase-Grabber [✅]
+
+Website:
++ Xepos-Information-Site
 ```
