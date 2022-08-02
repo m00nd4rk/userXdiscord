@@ -30,7 +30,7 @@ class Attributes:
 	    return discord, gmail
 
 	def life(self):
-		langs         = ['German', 'Spanish', 'English']
+		langs         = ['German', 'Spanish', 'English', 'Serbian']
 		age           = 15
 		
 		return langs, age
