@@ -47,7 +47,8 @@ class Attributes:
 ## Discord:
 
 <del>Auto Account Creator</del>
-Nitro Token Gen
+
+<del>Nitro Token Gen</del>
 
 Server Nuker
 
