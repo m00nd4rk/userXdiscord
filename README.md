@@ -42,7 +42,7 @@ class Attributes:
 			'genious':   ['python']
 ```
 
-# ✅・2022 Project Checklist
+# ✅・2022 Projects
 
 ## Discord:
 
