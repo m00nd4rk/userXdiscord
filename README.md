@@ -42,9 +42,9 @@ class Attributes:
 			'genious':   ['python']
 ```
 
-## ✅・2022 GitHub Project Checklist
+# ✅・2022 GitHub Project Checklist
 
-# Discord:
+## Discord:
 
 <del>Auto Account Creator</del>
 
@@ -55,7 +55,7 @@ Server Nuker
 AIO Tool
 
 
-# Tiktok:
+## Tiktok:
 
 <del>Viewbot</del>
 
@@ -63,16 +63,16 @@ AIO Tool
 
 Account Bruteforcer
 
-# Discord Bots:
+## Discord Bots:
 <del>Twitch Follow Bot</del>
 Instagram Follow Bot
 Twitter Follow Bot
 
-# Website:
+## Website:
 Xepos Information Site
 Instagram Phishing Site
 
-# Web3:
+## Web3:
 <del>Ethereum Wallet Phrase Grabber</del>
 
 
