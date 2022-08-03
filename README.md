@@ -15,7 +15,7 @@
     <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516v/>
 </p>
 
-<h2 align="center">👻 MY DISCORD: <a href="https://discord.gg/xepos">https://discord.gg/xepos 👻</a></h2>
+<h2 align="center">MY DISCORD: <a href="https://discord.gg/xepos">https://discord.gg/xepos</a></h2>
 
 ```python
 import bitches
@@ -42,7 +42,7 @@ class Attributes:
 			'genious':   ['python']
 ```
 
-# ✅・2022 GitHub Project Checklist
+# ✅・2022 Project Checklist
 
 ## Discord:
 
