@@ -1,6 +1,6 @@
 <!-- Hi skid <3 -->
 
-<h2 align="center"><a href="https://discord.gg/xepos">https://discord.gg/xepos</a></h2>
+<h2 align="center"><a href="👻 https://discord.gg/xepos 👻">https://discord.gg/xepos</a></h2>
 <p align="center"> 
   <kbd>
 <img src="https://cdn.discordapp.com/attachments/990017210984595516/1004413880509927454/7A78EE79-C85F-4F39-BC42-A4EB3362C76E.gif"></img>
@@ -15,8 +15,6 @@
 <p href="https://discord.gg/xepos" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516v/>
 </p>
-
-<h2 align="center"><a href="https://discord.gg/xepos">https://discord.gg/xepos</a></h2>
 
 ```python
 import bitches
