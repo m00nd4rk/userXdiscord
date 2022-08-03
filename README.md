@@ -45,26 +45,34 @@ class Attributes:
 ## ✅・2022 GitHub Project Checklist
 
 Discord:
-<del>Auto-Account-Creator</del>
-Nitro-Token-Gen
-Server-Nuker
-AIO-Tool
+
+<del>Auto Account Creator</del>
+
+Nitro Token Gen
+
+Server Nuker
+
+AIO Tool
+
 
 Tiktok:
+
 <del>Viewbot</del>
+
 <del>Api Viewbot</del>
+
 Account Bruteforcer
 
 Discord Bots:
-<del>Twitch-Follow-Bot</del>
-Instagram-Follow-Bot
-Twitter-Follow-Bot
+<del>Twitch Follow Bot</del>
+Instagram Follow Bot
+Twitter Follow Bot
 
 Website:
-Xepos-Information-Site
-Instagram-Phishing-Site
+Xepos Information Site
+Instagram Phishing Site
 
 Web3:
-<del>Ethereum-Wallet-Phrase-Grabber</del>
+<del>Ethereum Wallet Phrase Grabber</del>
 
 
