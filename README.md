@@ -64,15 +64,20 @@ AIO Tool
 Account Bruteforcer
 
 ## Discord Bots:
+
 <del>Twitch Follow Bot</del>
+
 Instagram Follow Bot
+
 Twitter Follow Bot
 
-## Website:
+## Websites:
+
 Xepos Information Site
+
 Instagram Phishing Site
 
-## Web3:
+## Other:
 <del>Ethereum Wallet Phrase Grabber</del>
 
 
