@@ -44,7 +44,6 @@ class Attributes:
 
 ## ✅・2022 GitHub Project Checklist
 
-```
 Discord:
 <del>Auto-Account-Creator</del>
 Nitro-Token-Gen
@@ -68,5 +67,4 @@ Instagram-Phishing-Site
 Web3:
 <del>Ethereum-Wallet-Phrase-Grabber</del>
 
-```
 
