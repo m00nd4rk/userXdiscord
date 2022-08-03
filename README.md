@@ -26,7 +26,7 @@ class Attributes:
 		
 	def contact(self):
 	    discord  = "m00nd4rk#0001"
-	    gmail   = "jolly.bolly54@gmail.com"
+	    gmail   = "contactmoon69@gmail.com"
 	    
 	    return discord, gmail
 
@@ -47,7 +47,6 @@ class Attributes:
 ## Discord:
 
 <del>Auto Account Creator</del>
-
 Nitro Token Gen
 
 Server Nuker
