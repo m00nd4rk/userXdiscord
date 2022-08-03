@@ -46,7 +46,7 @@ class Attributes:
 
 ```diff
 Discord:
-+ <del>100 stars = captcha solver</del>
+<del>100 stars = captcha solver</del>
 + Nitro-Token-Gen
 + Server-Nuker
 + AIO
