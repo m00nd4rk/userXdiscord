@@ -1,11 +1,14 @@
 <!-- Hi skid <3 -->
 
-<h2 align="center"><a href="https://discord.gg/xepos">👻 discord.gg/xepos 👻</a></h2>
+<h1 align="center">m00nd4rk | <a href="https://discord.gg/xepos"> discord.gg/xepos</a></h2>
+
 <p align="center"> 
   <kbd>
 <img src="https://cdn.discordapp.com/attachments/990017210984595516/1004413880509927454/7A78EE79-C85F-4F39-BC42-A4EB3362C76E.gif"></img>
   </kbd>
 </p>
+
+<h2 align="center"><a href="https://discord.gg/xepos">👻 discord.gg/xepos 👻</a></h2>
 
 <!-- <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
