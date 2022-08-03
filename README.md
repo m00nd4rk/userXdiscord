@@ -46,18 +46,18 @@ class Attributes:
 
 ```
 Discord:
-<del>Auto-Account-Creator<del>
+<del>Auto-Account-Creator</del>
 Nitro-Token-Gen
 Server-Nuker
 AIO-Tool
 
 Tiktok:
-<del>Viewbot<del>
-<del>Api Viewbot<del>
+<del>Viewbot</del>
+<del>Api Viewbot</del>
 Account Bruteforcer
 
 Discord Bots:
-<del>Twitch-Follow-Bot<del>
+<del>Twitch-Follow-Bot</del>
 Instagram-Follow-Bot
 Twitter-Follow-Bot
 
@@ -66,7 +66,7 @@ Xepos-Information-Site
 Instagram-Phishing-Site
 
 Web3:
-<del>Ethereum-Wallet-Phrase-Grabber<del>
+<del>Ethereum-Wallet-Phrase-Grabber</del>
 
 ```
 
