@@ -46,13 +46,14 @@ class Attributes:
 
 ```diff
 Discord:
-<del>100 stars = captcha solver</del>
++ Auto-Account-Creator
 + Nitro-Token-Gen
 + Server-Nuker
 + AIO
 
 Tiktok:
-+ Viewbot [✅]
+
++ Viewbot
 + Api Viewbot
 + Account Bruteforcer
 
