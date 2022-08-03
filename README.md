@@ -69,3 +69,5 @@ Web3:
 + Ethereum-Wallet-Phrase-Grabber [✅]
 
 ```
+
+<del>100 stars = captcha solver</del>
