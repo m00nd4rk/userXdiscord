@@ -44,30 +44,29 @@ class Attributes:
 
 ## ✅・2022 GitHub Project Checklist
 
-```diff
+```
 Discord:
-+ Auto-Account-Creator
-+ Nitro-Token-Gen
-+ Server-Nuker
-+ AIO
+<del>Auto-Account-Creator<del>
+Nitro-Token-Gen
+Server-Nuker
+AIO-Tool
 
 Tiktok:
-
-+ Viewbot
-+ Api Viewbot
-+ Account Bruteforcer
+<del>Viewbot<del>
+<del>Api Viewbot<del>
+Account Bruteforcer
 
 Discord Bots:
-+ Twitch-Follow-Bot [✅]
-+ Instagram-Follow-Bot
-+ Twitter-Follow-Bot
+<del>Twitch-Follow-Bot<del>
+Instagram-Follow-Bot
+Twitter-Follow-Bot
 
 Website:
-+ Xepos-Information-Site
+Xepos-Information-Site
+Instagram-Phishing-Site
 
 Web3:
-+ Ethereum-Wallet-Phrase-Grabber [✅]
+<del>Ethereum-Wallet-Phrase-Grabber<del>
 
 ```
 
-<del>100 stars = captcha solver</del>
